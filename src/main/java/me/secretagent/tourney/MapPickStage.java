@@ -1,0 +1,7 @@
+package me.secretagent.tourney;
+
+public enum MapPickStage {
+
+    BAN_TEAM1_1, BAN_TEAM2_1, PICK_TEAM1, SIDE_TEAM2, PICK_TEAM2, SIDE_TEAM1, BAN_TEAM1_2, BAN_TEAM2_2, BAN_TEAM1_3, BAN_TEAM2_3, SIDETEAM1_1, COMPLETE
+
+}
